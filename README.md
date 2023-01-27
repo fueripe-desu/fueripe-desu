@@ -1,4 +1,4 @@
-![MasterHead](https://i.ibb.co/NxvF8Ng/PREVIEW-Samurai-Girl-Lantern-Adobe-Express.gif)
+![MasterHead](https://github.com/fueripe-desu/fueripe-desu/blob/main/PREVIEW-Samurai-Girl-Lantern_AdobeExpress.gif)
 
 Hi, I’m @fueripe-desu 👋, I am passionate about software developement since I was a twelve-year old boy.  
 I am currently interested in areas like:
