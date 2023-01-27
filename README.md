@@ -1,3 +1,5 @@
+![MasterHead](https://i.ibb.co/NxvF8Ng/PREVIEW-Samurai-Girl-Lantern-Adobe-Express.gif)
+
 Hi, I’m @fueripe-desu 👋, I am passionate about software developement since I was a twelve-year old boy.  
 I am currently interested in areas like:
 
