@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fueripe-desu&label=Profile%20views&color=0e75b6&style=plastic" alt="fueripe-desu" /> </p>
 
-- 🔭 I’m currently working on **Timey**
+- 🔭 I’m currently working on **TimeOut**
 
 - 🌱 I’m currently learning **C, Rust, Elixir**
 
