@@ -1,11 +1,11 @@
 ![MasterHead](https://github.com/fueripe-desu/fueripe-desu/blob/main/PREVIEW-Samurai-Girl-Lantern_AdobeExpress.gif)
 
 <h1 align="center">こんにちは！ - I'm fueripe-desu</h1>
-<h3 align="center">I am passionate about software developement since I was a twelve-year old.</h3>
+<h3 align="center">I am passionate about software development since I was twelve years old.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fueripe-desu&label=Profile%20views&color=0e75b6&style=plastic" alt="fueripe-desu" /> </p>
 
-- 🔭 I’m currently working on **TimeOut**
+- 🔭 I’m currently working on **Brainkeeper (Personal Project)**
 
 - 🌱 I’m currently learning **C, Rust, Elixir**
 
